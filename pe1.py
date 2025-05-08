@@ -1,3 +1,5 @@
+#Find the sum of all the multiples of 3 or 5 below 100.
+
 soma = 0 
 
 for i in range (1000):
