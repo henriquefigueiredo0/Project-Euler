@@ -3,7 +3,7 @@ anterior = 1
 troca = 0
 soma = 0
 
-while (atual < 50):
+while (atual < 4,000,000):
 
     if (atual % 2) == 0:
         soma = soma + atual
